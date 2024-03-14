@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: white;
+}
+.div1{
+    text-align: center;
+    background: black;
+    height: 100vh;
+}
+.div1 .chapter1{
+    margin-top:40px;
+    color: white;
+    background: pink;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 30px;
+    padding-top: 12px;
+}
